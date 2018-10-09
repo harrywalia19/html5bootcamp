@@ -1,6 +1,8 @@
 
 #HTML5 Boot Camp
 
+#If you want to design and code the front-end of web apps or mobile apps or email templates, you need to use HTML5.
+
 ##The future of Web Applications is here!1
 ###Are you ready for it?
 
